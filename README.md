@@ -44,11 +44,11 @@ I’m an Experienced IT professional with a demonstrated history of working in t
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saulocalcada&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=saulocalcada&theme=ocean_dark&show_icons=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulocalcada&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulocalcada&theme=ocean_dark&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
