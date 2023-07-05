@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m an Experienced IT professional with a demonstrated history of working in the information technology and services industry. Skilled in Linux, Windows, ITIL, IT Service Management, Network Administration. Strong information technology professional with an Associate's Degree focused in Information Security from São Paulo State's Technology College (Fatec).  
+I’m an Experienced IT professional with a demonstrated history of working in the information technology and services industry. Skilled in Linux, Windows, ITIL, IT Service Management, Network Administration. Strong information technology professional with an Associate's Degree focused in Information Security from São Paulo State's Technology College (Fatec). I'm always looking to learn new skills and ways to find solutions to threats and problems related to information security.
   
 
 <br/>  
